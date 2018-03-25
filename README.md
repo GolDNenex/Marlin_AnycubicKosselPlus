@@ -1,6 +1,8 @@
 # Marlin_AnycubicKosselPlus
 
-Pour Anycubic kossel plus (testé sur linear plus), la version non compilé est configurer pour utiliser des TMC2xxx
+Pour Anycubic kossel plus (testé sur linear plus), les versions non compilé sont configuré pour utiliser des TMC2xxx
+La V1 est la pour les delta plus avec la version d'autolevel V1
+http://puu.sh/zPoIt/a6ba50a1f7.jpg
 
 Deux version déja compilé :
 
